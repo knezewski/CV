@@ -50,7 +50,6 @@ A service for students to help them remember and repeat their notes.
 * Node JS
 * REST
 * Express
-* Koa
 * MongoDB
 * Mongoose
 * PostgreSQL
@@ -58,8 +57,6 @@ A service for students to help them remember and repeat their notes.
 
 **Others:**
 * Git
-* Swagger
 * Linux
 * Yarn, Npm
-* Docker
 
