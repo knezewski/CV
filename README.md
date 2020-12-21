@@ -39,14 +39,27 @@ A service for students to help them remember and repeat their notes.
 
 ## Technical skills:
 
-**Languages:**
-
-* Javascript
-
 **Front-end:**
-
 * HTML
 * CSS & Sass
-* 
-* React JS
-* Vue
+* Javascript
+* React JS, Redux, Recoil
+* Vue JS, Vuex
+
+**Back-end:**
+* Node JS
+* REST
+* Express
+* Koa
+* MongoDB
+* Mongoose
+* PostgreSQL
+* Wesocket
+
+**Others:**
+* Git
+* Swagger
+* Linux
+* Yarn, Npm
+* Docker
+
