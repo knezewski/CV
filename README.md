@@ -12,7 +12,7 @@ In november 2020 I enrolled as a student at LoftSchool again, now I finish Node.
 
 
 ## Projects I've coded:
-#On VanillaJS:
+# On VanillaJS:
 
 Hacker News Clone - https://github.com/knezewski/HackerNewsClone,
 
