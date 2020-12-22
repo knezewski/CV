@@ -40,8 +40,7 @@ A service for students to help them remember and repeat their notes.
 ## Technical skills:
 
 **Front-end:**                           
- **Back-end:**
-* HTML                                    * Node JS             
+* HTML5                                           
 * CSS & Sass
 * Javascript
 * React JS, Redux, Recoil
