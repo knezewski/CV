@@ -1,62 +1,106 @@
 # Andrei Kniazev
-I'm a web-developer.
+I'm a front-end developer with 3+ years of experience developing user interfaces with modern development practices.
 
-I enjoy building digital products that either solve problems or entertain people. Preferrably in Javascript.
-
-I'm self driven, hard working and easy going. I also hold a master degree in biology.
+I'm passionate about lifelong learning, sustainable development, applying and contributing innovative technologies.
 
 ## Experience:
-### Founders & Coders
-In early 2019 I enrolled as a student at LoftSchool. LoftSchool is a 6 month intensive coding course with a focus on Javascript. After graduation, I've worked with commercial clients, mostly building MVP's for startups.
-In november 2020 I enrolled as a student at LoftSchool again, now I finish Node.js course.
+### Front-end developer                                                                                    (October 2021 - July 2022)
+
+#### GPB (JSC). A private-owned bank, the third largest bank in the country by assets.
+
+* Developed the interfaces of working systems, and components for the bank dashboard.
+* Implemented complex elements of client business logic.
+* Developed modules via a metadata-driven development approach.
+* Integrated an external module of investments. 
+* Implemented services via a backend-for-frontend pattern.
+* Supported banking automation system.
+* Worked with a designer, product managers, product owners in cross-functional teams.
+
+### Front-end developer                                                                                        (April 2021 - April 2022)
+#### Freelance/web development for individuals and small organisations.
+
+* Development, planning, and participation in the development of the architecture of a company's internal services.
+* Took a part in implementing the full functionality of the customer’s account on the new stack (TS, React).
+* Wrote UI using React and TS.
+* Implemented a multistep form.
+* Built and integrated RESTful API.
+* Implemented databases(NoSQL).
+* Participated in the development of the project from scratch.
+* Collaborated with  back-end developers, designers and  QA engineers.
+
+### Front-end developer                                                                                  (March 2020 - March 2021)
+
+#### PMT Online. IT solutions for government and commercial medical institutions, remote monitoring of patients.
+* Developed CRM system interfaces, pages and components design.
+* Worked on enhancing the usability and performance of the web app and with the legacy code.
 
 
 ## Projects I've coded:
 ### On VanillaJS:
 
-Hacker News Clone - https://github.com/knezewski/HackerNewsClone,
-
-Goggle Keep Clone - https://github.com/knezewski/googleKeepClone,
-
+Hacker News Clone - https://github.com/knezewski/HackerNewsClone,<br />
+Goggle Keep Clone - https://github.com/knezewski/googleKeepClone,<br />
 Beer Explorer - https://github.com/knezewski/Beer-App.
 
 ### On React:
-E-commerce-site - https://github.com/knezewski/E-commerce-site,
-
-Meme Generator - https://github.com/knezewski/Meme-Generator,
-
-Search movies app - https://github.com/knezewski/Search-movies-app,
-
+E-commerce-site - https://github.com/knezewski/E-commerce-site,<br />
+Meme Generator - https://github.com/knezewski/Meme-Generator,<br />
+Search movies app - https://github.com/knezewski/Search-movies-app,<br />
 Tik-Tak-Too - https://github.com/knezewski/Tic-Tac-Toe-with-React-Hooks.
 
-### On Node.js:
-
-### Keyword King
-A webapp that instantly shows you your app's underperforming keywords in the App Store.
-
-### Squish
-A service for students to help them remember and repeat their notes.
+### MERN projects:
+Simple social app - https://github.com/knezewski/memoriesMERNproject,<br />
+Task manager - https://github.com/knezewski/taskManagerMERN,<br />
+Corporate information system - https://github.com/knezewski/NodeProject
 
 ## Technical skills:
 
 **Front-end:**                           
-* HTML5                                           
-* CSS & Sass
-* Javascript
-* React JS, Redux, Recoil
-* Vue JS, Vuex
+* Javascript 
+* Typescript
+* SCSS, CSS-in-JS
+* React
+* Redux, React-Query, MobX
+* REST API, GraphQL
+* Web-animation
+* Unit testing
 
 **Back-end:**
 * Node JS
-* REST
-* Express
+* REST API
+* Express, Koa
 * MongoDB
 * Mongoose
-* PostgreSQL
-* Wesocket
+* Backend for frontend
 
-**Others:**
-* Git
-* Linux
-* Yarn, Npm
 
+## Education:
+Online course                                                                                	(June 2022 – now) <br />
+Web animation
+HTML Academy, an online school         
+
+Online course                                                                               (November 2020 – December 2020) <br />
+Node.js:  server-side js  
+LoftSchool, an online school
+
+Online course                                                                                            (March 2019 – August 2019) <br />
+Web-development (front-end)                                                                         
+LoftSchool, an online school
+
+Diploma specialist                                                                                (September 2006 – Julie 2011) <br />
+Specialisation – Biotechnology  <br /> 
+Udmurt State University, Izhevsk
+
+
+## Languages: 
+
+English - advanced<br />
+Udmurt - native
+
+## Certificates:                                                                                                                                        
+
+Graph Developer - Associate - https://www.apollographql.com/tutorials/certifications/b2317553-90ca-4179-8246-746ae50d43b1<br />
+Web-development  -  https://loftschool.com/diploma/PH1553964628/en/pdf<br />
+Node.js:  server-side js  - https://loftschool.com/diploma/OA1602829939/en/pdf<br />
+Dutch summer school 2017 - https://yadi.sk/i/O77qCBiAuKyQkA<br />
+Coursera.org Learning How to Learn: Powerful mental tools to help you master tough subjects.
