@@ -3,6 +3,26 @@ I'm a front-end developer with 3+ years of experience developing user interfaces
 
 I'm passionate about lifelong learning, sustainable development, applying and contributing innovative technologies.
 
+## Technical skills:
+
+**Front-end:**                           
+* Javascript 
+* Typescript
+* SCSS, CSS-in-JS
+* React
+* Redux, React-Query, MobX
+* REST API, GraphQL
+* Web-animation
+* Unit testing
+
+**Back-end:**
+* Node JS
+* REST API
+* Express, Koa
+* MongoDB
+* Mongoose
+
+
 ## Experience:
 ### Front-end developer                                                                                    (October 2021 - July 2022)
 
@@ -53,48 +73,23 @@ Simple social app - https://github.com/knezewski/memoriesMERNproject,<br />
 Task manager - https://github.com/knezewski/taskManagerMERN,<br />
 Corporate information system - https://github.com/knezewski/NodeProject
 
-## Technical skills:
+### AWS projects:
+Combination API  - https://github.com/knezewski/AWS-projects/tree/master/combinationAPI,<br />
+URL Shortener - https://github.com/knezewski/AWS-projects/tree/master/urlShortener
 
-**Front-end:**                           
-* Javascript 
-* Typescript
-* SCSS, CSS-in-JS
-* React
-* Redux, React-Query, MobX
-* REST API, GraphQL
-* Web-animation
-* Unit testing
-
-**Back-end:**
-* Node JS
-* REST API
-* Express, Koa
-* MongoDB
-* Mongoose
-* Backend for frontend
 
 
 ## Education:
-Online course                                                                                	(June 2022 – now) <br />
-Web animation
-HTML Academy, an online school         
 
-Online course                                                                               (November 2020 – December 2020) <br />
-Node.js:  server-side js  
-LoftSchool, an online school
-
-Online course                                                                                            (March 2019 – August 2019) <br />
-Web-development (front-end)                                                                         
-LoftSchool, an online school
-
-Diploma specialist                                                                                (September 2006 – Julie 2011) <br />
-Specialisation – Biotechnology  <br /> 
+Diploma specialist in Engineering Science                                                                            (September 2006 – Julie 2011)<br />
+Specialisation – Biotechnology <br /> 
 Udmurt State University, Izhevsk
 
 
 ## Languages: 
 
 English - advanced<br />
+Russian - native<br />
 Udmurt - native
 
 ## Certificates:                                                                                                                                        
@@ -102,5 +97,4 @@ Udmurt - native
 Graph Developer - Associate - https://www.apollographql.com/tutorials/certifications/b2317553-90ca-4179-8246-746ae50d43b1<br />
 Web-development  -  https://loftschool.com/diploma/PH1553964628/en/pdf<br />
 Node.js:  server-side js  - https://loftschool.com/diploma/OA1602829939/en/pdf<br />
-Dutch summer school 2017 - https://yadi.sk/i/O77qCBiAuKyQkA<br />
 Coursera.org Learning How to Learn: Powerful mental tools to help you master tough subjects.
