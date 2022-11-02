@@ -55,6 +55,12 @@ I'm passionate about lifelong learning, sustainable development, applying and co
 * Worked on enhancing the usability and performance of the web app and with the legacy code.
 
 
+## Education:
+
+Diploma specialist in Engineering Science                                                                            (September 2006 – Julie 2011)<br />
+Specialisation – Biotechnology <br /> 
+Udmurt State University, Izhevsk
+
 ## Projects I've coded:
 ### On VanillaJS:
 
@@ -76,15 +82,6 @@ Corporate information system - https://github.com/knezewski/NodeProject
 ### AWS projects:
 Combination API  - https://github.com/knezewski/AWS-projects/tree/master/combinationAPI,<br />
 URL Shortener - https://github.com/knezewski/AWS-projects/tree/master/urlShortener
-
-
-
-## Education:
-
-Diploma specialist in Engineering Science                                                                            (September 2006 – Julie 2011)<br />
-Specialisation – Biotechnology <br /> 
-Udmurt State University, Izhevsk
-
 
 ## Languages: 
 
