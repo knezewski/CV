@@ -8,12 +8,12 @@ I'm passionate about lifelong learning, sustainable development, applying and co
 **Front-end:**                           
 * Javascript 
 * Typescript
-* SCSS, CSS-in-JS
+* SCSS, CSS-in-JS, CSS modules
 * React
 * Redux, React-Query, MobX
 * REST API, GraphQL
 * Web-animation
-* Unit testing
+* Cypress
 
 **Back-end:**
 * Node JS
@@ -36,7 +36,7 @@ I'm passionate about lifelong learning, sustainable development, applying and co
 * Supported banking automation system.
 * Worked with a designer, product managers, product owners in cross-functional teams.
 
-### Front-end developer                                                                                        (April 2021 - April 2022)
+### Front-end developer                                                                                        (April 2021 - now)
 #### Freelance/web development for individuals and small organisations.
 
 * Development, planning, and participation in the development of the architecture of a company's internal services.
