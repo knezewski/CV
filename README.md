@@ -85,6 +85,7 @@ URL Shortener - https://github.com/knezewski/AWS-projects/tree/master/urlShorten
 ## Languages: 
 
 English - advanced<br />
+Spanish = beginner<br />
 Russian - native<br />
 Udmurt - native
 
