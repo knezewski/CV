@@ -9,8 +9,9 @@ Full-stack engineer with 4 years of experience developing user interfaces with m
 * SCSS, CSS-in-JS, CSS modules
 * React
 * Redux, React-Query, MobX
-* REST API, GraphQL
-* Web-animation
+* REST API
+* Google Map
+* Vite
 * Cypress
 
 **Back-end:**
@@ -19,6 +20,7 @@ Full-stack engineer with 4 years of experience developing user interfaces with m
 * Express, Koa
 * MongoDB
 * Mongoose
+* FastAPI
 
 
 ## Experience:
