@@ -1,7 +1,5 @@
 # Andrei Kniazev
-I'm a front-end developer with 3+ years of experience developing user interfaces with modern development practices.
-
-I'm passionate about lifelong learning, sustainable development, applying and contributing innovative technologies.
+Full-stack engineer with 4 years of experience developing user interfaces with modern development practices. I'm passionate about lifelong learning, sustainable development, applying, and contributing to innovative technologies
 
 ## Technical skills:
 
