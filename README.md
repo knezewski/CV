@@ -1,14 +1,14 @@
 # Andrei Kniazev
-Full-stack engineer with 4 years of experience developing user interfaces with modern development practices. I'm passionate about lifelong learning, sustainable development, applying, and contributing to innovative technologies
+As a full-stack developer, I have 4 years of experience in building UI with modern practices, such as React, TypeScript, Node js, Express. I enjoy applying innovative technologies that make a positive impact on society and the environment. I have developed and optimized web applications for various domains, such as transportation logistics, banking, and healthcare. 
 
 ## Technical skills:
 
 **Front-end:**                           
 * Javascript 
 * Typescript
-* SCSS, CSS-in-JS, CSS modules
+* SCSS, CSS-in-JS
 * React
-* Redux, React-Query, MobX
+* Redux, MobX
 * REST API
 * Google Map
 * Vite
@@ -25,29 +25,36 @@ Full-stack engineer with 4 years of experience developing user interfaces with m
 
 ## Experience:
 
-### Full-stack developer                                                                                        (April 2021 - now)
-#### Collaborating on project-based web development for individuals and small organisations, designing, enhancing, and maintaining websites and applications.
+### Full-Stack Developer | Neftematica | Remote                                                                                               (October 2022 - now)
+#### CStartup specialising in engineering software solutions for wholesale sales, offering services such as internal web systems, CRM integration, and analytical tools.
 
-* Implemented and optimised web applications enhancing transportation logistics efficiency.
-* Introduced robust reporting and logging features for shipping processes, reducing errors by 15% and enhancing traceability.
-* Developing collaborative features, such as shared workspaces and communication tools, to facilitate coordination among different stakeholders in the logistics ecosystem (shippers, carriers, suppliers, etc.)
-* Creating dynamic pricing mechanisms that enhance accuracy in shipping cost calculations by 30%. 
-* Created visually appealing multi-step forms for new client onboarding
-* Improved logistics visibility by 25% with map-based interfaces for  tracking.
+* Integrated API connectors to enhance data exchange between sales and logistics, resulting in a 20% increase in sales and order accuracy. Implemented data sync for seamless communication.            
+* Established a comprehensive logging feature to oversee all sales processes, promoting increased transparency and precision in sales tracking by 50%.* 
+* Developed collaborative features that improved efficiency and communication among logistics stakeholders, leading to a 45% reduction in turnaround time and a 15% enhancement in overall operational performance.
+* Integrated Google Maps API for shipment tracking, optimised routes, and reduced delivery time by 15%, thereby enhancing customer satisfaction and lowering costs.
+* Implemented custom markers, geolocation services, and dynamic pricing mechanisms, contributing to a 30% improvement in accuracy.
 
-### Front-end developer                                                                                    (October 2021 - July 2022)
 
-#### GPB (JSC). A private-owned bank, the third largest bank in the country by assets.
+### Front-end developer | Bank GPB (JSC) | Remote                                                                                               (October 2021 - July 2022)
 
-* Developed the interfaces of working systems, and components for the bank dashboard.
-* Increased user engagement by 30% through comprehensive financial insight
+#### A privately-owned bank, the third-largest bank in the RF by assets. The bank's principal business areas include corporate banking, retail banking, investment banking, and depository services.
+
 * Created dashboards and reporting tools to give users insights into their financial activities, account balances, and transaction histories. 
-* Achieved a 20% increase in user engagement, providing access to a diversified set of services through the integrated module.
-* Implemented logging and auditing capabilities, resulting in a 40% improvement in accountability and transparency of managers' interactions.	
-* Collaborated with cross-functional teams, ensuring a comprehensive approach to system development.
-* Work closely with product managers, designers, and backend developers to ensure the delivery of exceptional user experiences. 
+* Implemented logging and auditing capabilities, improving transparency by 40%.	
+* Integrated an external investments service improved the financial platform, making investments more efficient and boosting user satisfaction. 
+* Collaborated with cross-functional teams for comprehensive system development.
 
-### Front-end developer                                                                                  (March 2020 - March 2021)
+### Full-Stack developer | freelancer                                                                    (January 2021 - September 2021)
+                                                                                 
+#### Collaborating on project-based web development for individuals and small organisations, designing, enhancing, and maintaining websites and applications.
+* Designed and built a task-manager app with role-based access control from scratch using the MERN stack.
+* Implemented a complex multi step form for adding new clients.
+* Took a part in implementing the full functionality of the customer’s account on the new stack (TS, React).
+* Created a service for solving various tasks using a chain of trusted recommendations. 
+
+
+
+### Front-end developer | PMT ONLINE | on-site                                                (March 2020 - December 2020)
 
 #### PMT Online. IT solutions for government and commercial medical institutions, remote monitoring of patients.
 * Developed CRM system interfaces, pages and components design.
@@ -84,7 +91,6 @@ URL Shortener - https://github.com/knezewski/AWS-projects/tree/master/urlShorten
 
 ## Languages: 
 
-English - advanced<br />
 Spanish - beginner<br />
 Russian - native<br />
 Udmurt - native
