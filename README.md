@@ -9,18 +9,31 @@ As a full-stack developer, I have 4 years of experience in building UI with mode
 * SCSS, CSS-in-JS
 * React
 * Redux, MobX
-* REST API
-* Google Map
-* Vite
-* Cypress
+
+* JavaScript (JS)
+* TypeScript (TS)
+* React
+* Redux, MobX
+* CSS-in-JS
+* MUI
 
 **Back-end:**
 * Node JS
 * REST API
-* Express, Koa
+* Express
 * MongoDB
 * Mongoose
+* Python
+* Go
 * FastAPI
+
+**Tools & Technologies:**
+* REST API
+* Docker
+* Google Maps API
+* Cypress
+* Vite
+
 
 
 ## Experience:
@@ -64,7 +77,7 @@ As a full-stack developer, I have 4 years of experience in building UI with mode
 ## Education:
 
 Diploma specialist in Engineering Science                                                                            (September 2006 – Julie 2011)<br />
-Specialisation – Biotechnology <br /> 
+Specialisation – Bioengineering <br /> 
 Udmurt State University, Izhevsk
 
 ## Projects I've coded:
