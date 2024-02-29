@@ -4,12 +4,6 @@ As a full-stack developer, I have 4 years of experience in building UI with mode
 ## Technical skills:
 
 **Front-end:**                           
-* Javascript 
-* Typescript
-* SCSS, CSS-in-JS
-* React
-* Redux, MobX
-
 * JavaScript (JS)
 * TypeScript (TS)
 * React
