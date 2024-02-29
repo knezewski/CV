@@ -13,7 +13,6 @@ As a full-stack developer, I have 4 years of experience in building UI with mode
 
 **Back-end:**
 * Node JS
-* REST API
 * Express
 * MongoDB
 * Mongoose
